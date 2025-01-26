@@ -1,9 +1,9 @@
-📚 Curso de React JS Para Iniciantes - Com Exercícios e Projeto
-Bem-vindo ao repositório do Curso de React JS Para Iniciantes!
+## 📚 Curso de React JS Para Iniciantes - Com Exercícios e Projeto
+### Bem-vindo ao repositório do Curso de React JS Para Iniciantes!
 
 Aqui estão todos os materiais, exercícios e o projeto prático criados durante o curso. Este curso oferece uma introdução completa aos fundamentos do React, ideal para quem está começando e quer aprender os conceitos essenciais dessa poderosa biblioteca.
 
-🚀 O que você aprenderá:
+#### 🚀 O que você aprenderá:
 Como instalar e configurar projetos React utilizando Vite.
 Estrutura de pastas e organização de projetos React.
 Fundamentos como JSX, controle de fluxo e componentes reutilizáveis.
